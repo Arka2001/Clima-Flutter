@@ -1,3 +1,5 @@
+# I have created this app following Angela Yu's course on Flutter in Udemy. This is the final product that I have made. Anyone feel free to fork it and run it on your own machine. Enjoy :)
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
